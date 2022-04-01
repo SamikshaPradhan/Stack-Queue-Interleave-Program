@@ -1,5 +1,4 @@
-/* Name: Samiksha Pradhan
-   Course: CS 372
+/* 
    Program: Stk Q Interleave Pgm
    Description: Algorithm to Interleave the first half of the queue with second half
 My Encoding Algorithm
@@ -11,7 +10,7 @@ Following are the steps used to encode a list of words:
 5. Interleave the elements of queue and stack.
 
 I have an encode data file (a text file of words) that I need decoded.  The algorithm I used to encode the data
-is shown above.  Your problem, to decode the encoded data.  The input will be a ‘…txt’ file of words which
+is shown above.  Your problem, to decode the encoded data.  The input will be a â€˜â€¦txtâ€™ file of words which
 consists of a list of words that have been encoded as described above.   Write a program to input the txt file
 and print out the decoded results. Restrictions:   You must use aggregate Stack and Queue class. To solve this
 problem, you can have ONE Queue and ONE Stack and only one of each.  The input data will be loaded into a Queue
